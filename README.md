@@ -2,6 +2,6 @@
 
 ### Vefhönnun
 
-#### [Námsáætlun](VEFÞ1VG05AU_V21-2.pdf) 
+#### [Námsáætlun](VEFÞ2VH05BU_V21-2) 
 
-#### [Námsefni](https://github.com/vefgrunnur/V21/wiki)
+#### [Námsefni](https://github.com/vefhonnun/V21/wiki)

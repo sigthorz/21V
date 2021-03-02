@@ -7,12 +7,12 @@ Nemendur eiga að öðlast skilning á hvernig hægt er að búa til vektor teik
 	
 Búið til ykkar eigið  .svg lógó eða teikningu og látið það hreyfast með CSS stílum eða SMIL.        
 
+### Námsmat 14% af heildareinkunn:
 
-Námsmat 14% af heildareinkunn:
-7%   Vektor SVG lógó / teikning
-7%   SVG teikning hreyfist með CSS stílum.  
+* 7%   Vektor SVG lógó / teikning
+* 7%   SVG teikning hreyfist með CSS stílum.  
 
-Verkefnaskil:   Öllum gögnum er skilað í Github áfangageymsluna	
+#### Verkefnaskil:   Öllum gögnum er skilað í Github áfangageymsluna	
 
 * [Fylgigögn](https://github.com/vefhonnun/21V/tree/main/S%C3%BDnid%C3%A6mi/V-2/)
 

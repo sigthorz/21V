@@ -1,4 +1,4 @@
-<img src="https://github.com/vefhonnun/21V/blob/main/S%C3%BDnid%C3%A6mi/img/21VHB-logo.jpg" width="180" height="180" style="float:left" />
+<img src="https://github.com/vefhonnun/21V/blob/main/S%C3%BDnid%C3%A6mi/img/21VHB-logo.jpg" width="180" height="180" style="display:block;float:right" />
 
 #### [Námsáætlun](https://github.com/vefhonnun/21V/blob/main/VEF%C3%9E2VH05BU_V21-2.pdf) 
 

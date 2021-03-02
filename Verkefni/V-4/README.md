@@ -1,6 +1,45 @@
 # Töflur og form
 
-Verkefnalýsing er í endurvinnslu ... kemur fljótlega
+## Verkefni 4.1 - Töflur 6%  
+
+[Meðfylgjandi upplýsingar]() á að setja í HTML töflu og þær eiga að vera skilmerkilega settar upp. Í stílsíðu er hægt að nota gerviklasa (Pseudo class - nth-child) til að fá litskiptingu í bakgrunn töflunnar. 
+
+Taflan á að birtast í öllum skjástærðum án þess að riðla skipulagi síðunnar. Það á ekki að þurfa að hliðra til skjánum. 
+
+Mynd 1. Viðmið 48em + (760px ~ og stærri skjáir).
+Mynd 2. Viðmið 0 – 48 em (0 – 760px)
+      
+## Verkefni 4.2 - Form 8% 
+
+Setjið skráningarform inn á vefsíðu, formið á að vera sýnilegt í öllum helstu skjástærðum. 
+
+### FORM VALIDATION – HTML5
+
+Þegar smellt er á hnappinn (input submit) í skráningarforminu þá á vafrinn að athuga (validate) hvort einver texti hafi verið settur í alla innsláttarreitina. Ef reitirnir uppfylla ekki þau skilyrði þá á ekki að vera hægt að senda upplýsingar frá vefsíðunni, ef allt er í lagi þá sendum við innsláttinn út í bláinn. 
+```
+  <input type=“x“ name=“x“ value=“X“ required placeholder=“fyllið út þennan reit“>
+
+```
+Eftirfarnandi skilyrði þarf að uppfylla áður form er sent af stað frá vefsíðu
+
+* Ekki er hægt að skilja nafnareit auðan 		
+* Símanúmer verður að vera tölur (numbers)
+* Tölvupóstfang verður að vera með @	      	
+* Notið „input date“
+* Notið „select option, checkbox og radio“. 	
+* Notið aðra leturgerð og stærð í „textarea“
+
+## Námsmat tafla 6%
+
+* 3% 	Notaðu thead, tbody og tfooter tögin í töflukóðanum. 
+* 3% 	Taflan er svegjanleg (responsive) og skiptist þannig að hún er öll sýnileg
+á litlum skjáum.
+
+## Námsmat form 8%
+
+4%	input -text, -email, -radio, -checkbox, select og textarea er í forminu 
+4%	Ekki á að vera hægt að senda (submit) form fyrr en skilyrðum (request)  eru uppfyllt í „text“, „email“, „date“ og „telephone“.
+
   
 <!--* [Fylgigögn](https://github.com/vefhonnun/21V/tree/main/S%C3%BDnid%C3%A6mi/V-4)-->
 

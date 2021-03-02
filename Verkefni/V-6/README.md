@@ -46,4 +46,6 @@ Frumgerð sýnir hvaða útlit á að nota
   * Vinnuferilskrá  4%
 * Frumgerð vefs     6%
 
+#### Verkefnaskil: Öllum vinnugögnum er skilað í áfangageymsluna 
+
 #### Einkunn verður birt í Innu

@@ -19,7 +19,7 @@ Setjið skráningarform inn á vefsíðu, formið á að vera sýnilegt í öllu
 ```
   <input type=“x“ name=“x“ value=“X“ required placeholder=“fyllið út þennan reit“>
 ```
-Eftirfarnandi skilyrði þarf að uppfylla áður form er sent af stað frá vefsíðu
+Eftirfarnandi skilyrði (required) þarf að uppfylla áður form er sent af stað frá vefsíðu
 
 * Ekki er hægt að skilja nafnareit auðan 		
 * Símanúmer verður að vera tölur (numbers)
@@ -37,7 +37,7 @@ Eftirfarnandi skilyrði þarf að uppfylla áður form er sent af stað frá vef
 ## Námsmat form 8%
 
 * 4% &lt;input -text, -email, -radio, -checkbox, date, select> og &lt;textarea> er í forminu 
-* 4% Ekki á að vera hægt að senda (submit) form fyrr en ákveðin skilyrði (request)  eru uppfyllt.
+* 4% Ekki á að vera hægt að senda (submit) form fyrr en ákveðin skilyrði (required)  eru uppfyllt.
 
   
 <!--* [Fylgigögn](https://github.com/vefhonnun/21V/tree/main/S%C3%BDnid%C3%A6mi/V-4)-->

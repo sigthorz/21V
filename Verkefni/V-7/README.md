@@ -27,7 +27,7 @@ Hannið vef sem unnin er samkvæmt undirbúnings- og skipulagsgögnum 6. verkefn
 8.	1%  Form er í vef
 9.	1%  Tafla er í vef
 
-### Verkefnaskil: Öllum vinnugögnum er skilað í áfangageymsluna 
+#### Verkefnaskil: Öllum vinnugögnum er skilað í áfangageymsluna 
 
 _Gangi ykkur vel_  
 

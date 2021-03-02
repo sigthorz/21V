@@ -14,6 +14,6 @@ Námsmat 14% af heildareinkunn:
 
 Verkefnaskil:   Öllum gögnum er skilað í Github áfangageymsluna	
 
-* [Fylgigögn](https://github.com/vefgrunnur/21V/tree/main/S%C3%BDnid%C3%A6mi/V-2/)
+* [Fylgigögn](https://github.com/vefhonnun/21V/tree/main/S%C3%BDnid%C3%A6mi/V-2/)
 
 #### Einkunn verður birt í Innu

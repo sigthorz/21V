@@ -1,6 +1,6 @@
 # Töflur og form
 
-## Verkefni 4.1 - Töflur 6%  
+## Verkefni 4.1 - Töflur  
 
 [Meðfylgjandi upplýsingar]() á að setja í HTML töflu og þær eiga að vera skilmerkilega settar upp. Í stílsíðu er hægt að nota gerviklasa (Pseudo class - nth-child) til að fá litskiptingu í bakgrunn töflunnar. 
 
@@ -9,11 +9,11 @@ Taflan á að birtast í öllum skjástærðum án þess að riðla skipulagi s�
 Mynd 1. Viðmið 48em + (760px ~ og stærri skjáir).
 Mynd 2. Viðmið 0 – 48 em (0 – 760px)
       
-## Verkefni 4.2 - Form 8% 
+## Verkefni 4.2 - Form 
 
 Setjið skráningarform inn á vefsíðu, formið á að vera sýnilegt í öllum helstu skjástærðum. 
 
-### FORM VALIDATION – HTML5
+#### FORM VALIDATION – HTML5
 
 Þegar smellt er á hnappinn (input submit) í skráningarforminu þá á vafrinn að athuga (validate) hvort einver texti hafi verið settur í alla innsláttarreitina. Ef reitirnir uppfylla ekki þau skilyrði þá á ekki að vera hægt að senda upplýsingar frá vefsíðunni, ef allt er í lagi þá sendum við innsláttinn út í bláinn. 
 ```
@@ -28,13 +28,13 @@ Eftirfarnandi skilyrði (required) þarf að uppfylla áður form er sent af sta
 * Notið „select option, checkbox og radio“. 	
 * Notið aðra leturgerð og stærð í „textarea“
 
-## Námsmat tafla 6%
+### Námsmat tafla 6%
 
 * 3% Notaðu thead, tbody og tfooter tögin í töflukóðanum. 
 * 3% Taflan er svegjanleg (_responsive_) og skiptist þannig að hún er öll sýnileg
 á litlum skjáum.
 
-## Námsmat form 8%
+### Námsmat form 8%
 
 * 4% &lt;input -text, -email, -radio, -checkbox, date, select> og &lt;textarea> er í forminu 
 * 4% Ekki á að vera hægt að senda (submit) form fyrr en ákveðin skilyrði (required)  eru uppfyllt.

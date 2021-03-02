@@ -1,11 +1,26 @@
-# Efnisyfirlit
+# # CSS grunnform _CSS boilertemplate_
 
 ### Markmið:
-Nemendur öðlast skilning á:
-* hvernig hægt er að setja mismunandi bakgrunnsliti í vefsíðu.
-* skipulaggningu leiðakerfis fyrir innri og ytri vef.
-* staðsett efni á ákveðnum stað í vefsíðu
+Nemendur öðlast skilning á skipulagningu stílsíðukerfis fyrir vef.
 
-* [Fylgigögn](https://github.com/vefgrunnur/21V/tree/main/S%C3%BDnid%C3%A6mi/V-5), 2 vefsíður sem á að nota í verkefninu.
+Þegar komið er að því að hanna vef með skipulögðum hætti er gott að geta stuðst við CSS grunnkerfi þar sem búið er að hanna alla grunnþætti sem nota þarf í vef. Þar má nefna grindakerfi, sveigjanlega hönnun, leturstærðir, form og töflur. 
+
+Skeleton CSS grunnkerfið (_Boilerplate_) er einfalt kerfi sem hentar litlum og miðlungsstórum vefjum. Þar er búið að setja upp ákveðið skipulag sem auðvelt er að skilja og líka auðvelt að breyta og bæta. Skeleton er tilvalið stökkbretti til að stökkva út í djúpu laugina.
+
+Búðu til vef þar sem þú notar Skeleton stílsíðu sem grunn og bætir síða þínum stílum við.  Vefurinn á að vera kynning af einhverju tagi ss. á vöru eða þjónustu.
+
+### Námsmat:  14% af heildareinkunn
+
+Einssíðu vefur (SPW) með  Skeleton CSS stílsíðu. 
+
+1.	Sceleton Grid	4 %
+2.	Tafla	2%
+3.	Form	2%
+4.	Tenglar (virkir) á undirkafla	2%
+5.	Fellilisti (_dropdown menu_) þegar skjáir eru minni en 37.5em (600px)	4% 
+
+* [Skeleton](https://getskeleton.com)
+
+#### Verkefnaskil: Öllum vinnugögnum á að skila í áfangageymsluna, verkefni 5. 
 
 #### Einkunn verður birt í Innu

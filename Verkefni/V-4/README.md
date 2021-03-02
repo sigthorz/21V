@@ -20,7 +20,7 @@ Setjið skráningarform inn á vefsíðu, formið á að vera sýnilegt í öllu
 
 Mynd 2. Viðmið 0 – 48 em (0 – 760px)
 
-![Mynd 2](mynd-2.jpg)
+![Mynd 3](mynd-3.jpg)
 
 #### FORM VALIDATION – HTML5
 

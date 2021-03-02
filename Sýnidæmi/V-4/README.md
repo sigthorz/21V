@@ -8,7 +8,7 @@ Töflur henta ekki í útlithönnun ss til að birta texta og myndir sem breytas
 
 Hér er tafla sett upp í mardown rithætti
 
-          A test table with merged cells
+ A test table with merged cells
     /-----------------------------------------\
     |          |      Average      |   Red    |
     |          |-------------------|  eyes    |

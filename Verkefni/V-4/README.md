@@ -30,14 +30,14 @@ Eftirfarnandi skilyrði þarf að uppfylla áður form er sent af stað frá vef
 
 ## Námsmat tafla 6%
 
-* 3% 	Notaðu thead, tbody og tfooter tögin í töflukóðanum. 
-* 3% 	Taflan er svegjanleg (responsive) og skiptist þannig að hún er öll sýnileg
+* 3% Notaðu thead, tbody og tfooter tögin í töflukóðanum. 
+* 3% Taflan er svegjanleg (_responsive_) og skiptist þannig að hún er öll sýnileg
 á litlum skjáum.
 
 ## Námsmat form 8%
 
-* 4%	input -text, -email, -radio, -checkbox, select og textarea er í forminu 
-* 4%	Ekki á að vera hægt að senda (submit) form fyrr en skilyrðum (request)  eru uppfyllt í „text“, „email“, „date“ og „telephone“.
+* 4% &lt;input -text, -email, -radio, -checkbox, date, select> og &lt;textarea> er í forminu 
+* 4% Ekki á að vera hægt að senda (submit) form fyrr en ákveðin skilyrði (request)  eru uppfyllt.
 
   
 <!--* [Fylgigögn](https://github.com/vefhonnun/21V/tree/main/S%C3%BDnid%C3%A6mi/V-4)-->

@@ -6,15 +6,13 @@ Töflur henta ekki í útlithönnun ss til að birta texta og myndir sem breytas
 
 "Table" tagið er erfitt að eiga við þegar kemur að sveigjanleika vefsíðu og best að nota það ekki nema þegar um gagnvirkar færslur er að ræða.  
 
-Hér er tafla sett upp í mardown rithætti
 
- A test table with merged cells
-/-----------------------------------------\
-|          |      Average      |   Red    |
-|          |-------------------|  eyes    |
-|          |  height |  weight |          |
-|-----------------------------------------|
-|  Males   | 1.9     | 0.003   |   40%    |
-|-----------------------------------------|
-| Females  | 1.7     | 0.002   |   43%    |
-\-----------------------------------------/
+
+#### Markdown tafla
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
+[Töflur í mardown rithætti](https://docs.github.com/en/github/writing-on-github/organizing-information-with-tables)

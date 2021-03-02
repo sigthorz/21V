@@ -36,7 +36,7 @@ Eftirfarnandi skilyrði þarf að uppfylla áður form er sent af stað frá vef
 
 ## Námsmat form 8%
 
-* 4% &lt;input -text, -email, -radio, -checkbox, date, select> og &lt;textarea> er í forminu 
+* 4% &lt;input -text, -email, -radio, -checkbox, -date, -select> og &lt;textarea> er í forminu 
 * 4% Ekki á að vera hægt að senda (submit) form fyrr en ákveðin skilyrði (request)  eru uppfyllt.
 
   

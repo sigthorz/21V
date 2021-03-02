@@ -7,6 +7,9 @@ Töflur henta ekki í útlithönnun ss til að birta texta og myndir sem breytas
 "Table" tagið er erfitt að eiga við þegar kemur að sveigjanleika vefsíðu og best að nota það ekki nema þegar um gagnvirkar færslur er að ræða.  
 
 
+```
+&lt;table><thead>
+```
 
 #### Markdown tafla
 

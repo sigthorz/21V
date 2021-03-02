@@ -18,7 +18,6 @@ Setjið skráningarform inn á vefsíðu, formið á að vera sýnilegt í öllu
 Þegar smellt er á hnappinn (input submit) í skráningarforminu þá á vafrinn að athuga (validate) hvort einver texti hafi verið settur í alla innsláttarreitina. Ef reitirnir uppfylla ekki þau skilyrði þá á ekki að vera hægt að senda upplýsingar frá vefsíðunni, ef allt er í lagi þá sendum við innsláttinn út í bláinn. 
 ```
   <input type=“x“ name=“x“ value=“X“ required placeholder=“fyllið út þennan reit“>
-
 ```
 Eftirfarnandi skilyrði þarf að uppfylla áður form er sent af stað frá vefsíðu
 
@@ -37,8 +36,8 @@ Eftirfarnandi skilyrði þarf að uppfylla áður form er sent af stað frá vef
 
 ## Námsmat form 8%
 
-4%	input -text, -email, -radio, -checkbox, select og textarea er í forminu 
-4%	Ekki á að vera hægt að senda (submit) form fyrr en skilyrðum (request)  eru uppfyllt í „text“, „email“, „date“ og „telephone“.
+* 4%	input -text, -email, -radio, -checkbox, select og textarea er í forminu 
+* 4%	Ekki á að vera hægt að senda (submit) form fyrr en skilyrðum (request)  eru uppfyllt í „text“, „email“, „date“ og „telephone“.
 
   
 <!--* [Fylgigögn](https://github.com/vefhonnun/21V/tree/main/S%C3%BDnid%C3%A6mi/V-4)-->

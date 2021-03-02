@@ -13,11 +13,11 @@ Búðu til vef þar sem þú notar Skeleton stílsíðu sem grunn og bætir sí�
 
 Einssíðu vefur (SPW) með  Skeleton CSS stílsíðu. 
 
-1.	Sceleton Grid	4 %
-2.	Tafla	2%
-3.	Form	2%
-4.	Tenglar (virkir) á undirkafla	2%
-5.	Fellilisti (_dropdown menu_) þegar skjáir eru minni en 37.5em (600px)	4% 
+* Sceleton Grid	7 %
+* Efni í vefsíðu
+  1.	Tafla	2%
+  2.	Form	2%
+  3.	Fellilisti (_dropdown menu_) þegar skjáir eru minni en 37.5em (600px)	3% 
 
 * [Skeleton](https://getskeleton.com)
 

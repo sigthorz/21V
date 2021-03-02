@@ -1,6 +1,6 @@
 # 21V
 
-![logo](https://github.com/vefhonnun/21V/blob/main/S%C3%BDnid%C3%A6mi/img/21VHB-logo.jpg =250)
+![logo](https://github.com/vefhonnun/21V/blob/main/S%C3%BDnid%C3%A6mi/img/21VHB-logo.jpg =250x)
 
 ### Vefhönnun
 

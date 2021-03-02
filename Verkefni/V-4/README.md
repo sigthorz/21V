@@ -28,7 +28,7 @@ Mynd 3. Form með helstu innsláttarreitum sem notaðir eru í HTML
 ```
   <input type=“x“ name=“x“ value=“X“ required placeholder=“fyllið út þennan reit“>
 ```
-Eftirfarnandi skilyrði (required) þarf að uppfylla áður form er sent af stað frá vefsíðu
+Eftirfarnandi skilyrði (_required_) þarf að uppfylla áður form er sent af stað með pósti frá vefsíðu
 
 * Ekki er hægt að skilja nafnareit auðan 		
 * Símanúmer verður að vera tölur (numbers)

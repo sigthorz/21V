@@ -4,7 +4,7 @@
 
 [Meðfylgjandi upplýsingar]() á að setja í HTML töflu og þær eiga að vera skilmerkilega settar upp. Í stílsíðu er hægt að nota gerviklasa (Pseudo class - nth-child) til að fá litskiptingu í bakgrunn töflunnar. 
 
-Taflan á að birtast í öllum skjástærðum án þess að riðla skipulagi síðunnar. Það á ekki að þurfa að hliðra til skjánum. Myndirnar hér að neðan eru af tötlum í vefsíðu. Í stílsíðunni eru eitt viðmið (_breakpoints_) 48em.
+Taflan á að birtast í öllum skjástærðum án þess að riðla skipulagi síðunnar. Það á ekki að þurfa að hliðra til skjánum. Myndirnar hér að neðan eru af töflu í vefsíðu. Í stílsíðunni eru eitt viðmið (_breakpoints_) 48em.
 
 Mynd 1. Viðmið 48em + (760px ~ og stærri skjáir)
 ![Mynd 1](mynd-1.jpg)

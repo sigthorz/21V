@@ -9,6 +9,9 @@ Skeleton CSS grunnkerfið (_Boilerplate_) er einfalt kerfi sem hentar litlum og 
 
 Búðu til vef þar sem þú notar Skeleton stílsíðu sem grunn og bætir síða þínum stílum við.  Vefurinn á að vera kynning af einhverju tagi ss. á vöru eða þjónustu.
 
+* [Skeleton](http://getskeleton.com/)
+* [Github Skeleton](https://github.com/dhg/Skeleton/)
+
 ### Námsmat:  14% af heildareinkunn
 
 Einssíðu vefur (SPW) með  Skeleton CSS stílsíðu. 
@@ -18,8 +21,6 @@ Einssíðu vefur (SPW) með  Skeleton CSS stílsíðu.
   * Tafla	2%
   * Form	2%
   * Fellilisti (_dropdown menu_)	3% 
-
-* [Skeleton](https://getskeleton.com)
 
 #### Verkefnaskil: Öllum vinnugögnum á að skila í áfangageymsluna, verkefni 5. 
 

@@ -15,9 +15,9 @@ Einssíðu vefur (SPW) með  Skeleton CSS stílsíðu.
 
 * Sceleton Grid	7 %
 * Efni í vefsíðu
-  1.	Tafla	2%
-  2.	Form	2%
-  3.	Fellilisti (_dropdown menu_) þegar skjáir eru minni en 37.5em (600px)	3% 
+  * Tafla	2%
+  * Form	2%
+  * Fellilisti (_dropdown menu_)	3% 
 
 * [Skeleton](https://getskeleton.com)
 

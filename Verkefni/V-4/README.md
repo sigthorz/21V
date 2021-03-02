@@ -18,7 +18,7 @@ Mynd 2. Viðmið 0 – 48 em (0 – 760px)
 
 Setjið skráningarform inn á vefsíðu, formið á að vera sýnilegt í öllum helstu skjástærðum. 
 
-Mynd 3. Form með helstu innslátterreitum sem notaðir eru í HTML
+Mynd 3. Form með helstu innsláttarreitum sem notaðir eru í HTML
 
 ![Mynd 3](mynd-3.jpg)
 

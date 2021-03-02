@@ -4,16 +4,15 @@
 
 [Meðfylgjandi upplýsingar]() á að setja í HTML töflu og þær eiga að vera skilmerkilega settar upp. Í stílsíðu er hægt að nota gerviklasa (Pseudo class - nth-child) til að fá litskiptingu í bakgrunn töflunnar. 
 
-Taflan á að birtast í öllum skjástærðum án þess að riðla skipulagi síðunnar. Það á ekki að þurfa að hliðra til skjánum. 
-
-![Mynd 1](mynd-1.jpg)
+Taflan á að birtast í öllum skjástærðum án þess að riðla skipulagi síðunnar. Það á ekki að þurfa að hliðra til skjánum. Myndirnar hér að neðan eru af tötlum í vefsíðu. Í stílsíðunni eru eitt viðmið (_breakpoints_) 48em.
 
 Mynd 1. Viðmið 48em + (760px ~ og stærri skjáir)
+![Mynd 1](mynd-1.jpg)
+
+Mynd 2. Viðmið 0 – 48 em (0 – 760px)
 
 ![Mynd 2](mynd-2.jpg)
 
-Mynd 2. Viðmið 0 – 48 em (0 – 760px)
-      
 ## Verkefni 4.2 - Form 
 
 Setjið skráningarform inn á vefsíðu, formið á að vera sýnilegt í öllum helstu skjástærðum. 

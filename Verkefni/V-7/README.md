@@ -29,11 +29,6 @@ Hannið vef sem unnin er samkvæmt undirbúnings- og skipulagsgögnum 6. verkefn
 
 ### Verkefnaskil: Öllum vinnugögnum er skilað í áfangageymsluna 
 
-
 _Gangi ykkur vel_  
-
-
-
-* [Fylgigögn](https://github.com/vefgrunnur/21V/tree/main/S%C3%BDnid%C3%A6mi/V-7/images), myndir til að æfa sig á í _images_ möppunni 
 
 #### Einkunn verður birt í Innu

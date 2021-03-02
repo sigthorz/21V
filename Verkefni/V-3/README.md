@@ -1,11 +1,9 @@
 # CSS3 grid
 
 ### Markmið:
-Nemendur hafa skilning á skipulagi vefsíðna með [CSS grid](https://gridbyexample.com) stílum.
+Nemendur öðlast skilning á að beita flóknari stílaðferðum í CSS til að hanna betri vefsíður.
 
-* [Fylgigögn](https://github.com/vefgrunnur/21V/tree/main/S%C3%BDnid%C3%A6mi/V-3)
+* [Verkefnalýsing](Verkefni-3.pdf)
+* [Fylgigögn](https://github.com/vefhonnun/21V/tree/main/S%C3%BDnid%C3%A6mi/V-3)
 
 #### Einkunn verður birt í Innu
-
-
-

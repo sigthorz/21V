@@ -1,11 +1,19 @@
-# BOX modelið
+# SVG vektor teikningar   
 
 ### Markmið:
-Nemendur eiga að öðlast skilning á eiginleikum HTML taga og hvaða áhrif _display:_ eigindið hefur á uppbyggingu þeirra.
+Nemendur eiga að öðlast skilning á hvernig hægt er að búa til vektor teikningu og koma henni á hreyfingu með CSS stílum.
 
-* [Verkefnalýsing 2](Verkefni_2.pdf)
-* [Fylgigögn 2.1 og 2.2](https://github.com/vefgrunnur/21V/tree/main/S%C3%BDnid%C3%A6mi/V-2/V-21-22)
-* [Fylgigögn 2.3](https://github.com/vefgrunnur/21V/tree/main/S%C3%BDnid%C3%A6mi/V-2/V-23)
-* [Fylgigögn 2.4](https://github.com/vefgrunnur/21V/tree/main/S%C3%BDnid%C3%A6mi/V-2/V-24)
+### SVG vektor teikning   
+	
+Búið til ykkar eigið  .svg lógó eða teikningu og látið það hreyfast með CSS stílum eða SMIL.        
+
+
+Námsmat 14% af heildareinkunn:
+7%   Vektor SVG lógó / teikning
+7%   SVG teikning hreyfist með CSS stílum.  
+
+Verkefnaskil:   Öllum gögnum er skilað í Github áfangageymsluna	
+
+* [Fylgigögn](https://github.com/vefgrunnur/21V/tree/main/S%C3%BDnid%C3%A6mi/V-2/)
 
 #### Einkunn verður birt í Innu

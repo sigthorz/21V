@@ -36,8 +36,7 @@ Frumgerð sýnir hvaða útlit á að nota
 * Leturval 
 * Myndanotkun
 * Útlit í mismunandi skjástærðum  
-* Forrit sem hægt er að nota við frumgerð
-  * [Justinmind](https://www.justinmind.com/free-wireframing-tool)
+
 
 **Í frumgerð er verið að skoða útlit, áhrif og notagildi (UX). Virkni frumgerðar er engin, við erum bara að skoða tillögur að vef.**
 

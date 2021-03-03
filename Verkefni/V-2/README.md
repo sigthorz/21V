@@ -3,6 +3,8 @@
 ### Markmið:
 Nemendur eiga að öðlast skilning á hvernig hægt er að búa til vektor teikningu og koma henni á hreyfingu með CSS stílum.
 
+![svg logo](rwd-logo.svg)
+
 ### SVG vektor teikning   
 	
 Búið til ykkar eigið  .svg lógó eða teikningu og látið það hreyfast með CSS stílum eða SMIL.        

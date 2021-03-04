@@ -37,7 +37,7 @@ Nemendur eiga að nota GitHub "_Project_" bæði í hugmynda- og skipulagsvinnun
 
 **Í frumgerð erum bara að skoða útlit, flæði og notagildi (UX) á myndum.**
 
-* sýnir útlit í mismunandi skjástærðum  
+* sýnir skipulag í mismunandi skjástærðum  
 * Litasamsetning
 * Leturval 
 * Staðsetning mynda (rammar)

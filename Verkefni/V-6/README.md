@@ -31,7 +31,7 @@ Nemendur eiga að nota GitHub "_Project_" bæði í hugmynda- og skipulagsvinnun
 
 * Skipulag _(layout)_ vefsins (teikning, virkni á milli síðna)
 
-Útfærslan er í ykkar höndum getur verið á blaði
+Útfærslan er í ykkar höndum, t.d. getur það verið teikning á blaði sem er ljósmynduð og skilað á .jpg formati
 
 ### Frumgerð (_Prototype_) 
 
@@ -42,7 +42,7 @@ Nemendur eiga að nota GitHub "_Project_" bæði í hugmynda- og skipulagsvinnun
 * Leturval 
 * Staðsetning mynda (rammar)
 
-Útfærslan er í ykkar höndum, það má nota hvaða hugbúnað sem er
+Útfærslan er í ykkar höndum, það má nota hvaða hugbúnað sem er t.d Photoshop, inDesign ofl.
 
 #### Námsmat 14% af heildareinkunn
 

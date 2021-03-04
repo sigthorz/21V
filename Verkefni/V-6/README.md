@@ -27,24 +27,30 @@ Nemendur eiga að nota GitHub "_Project_" bæði í hugmynda- og skipulagsvinnun
     * í vinnslu - hver framkvæmir tiltekna verkþætti
     * lokið
 
-### Frumgerð _"Prototype"_ 
+### Frumgerð _"Wireframe"_ 
 
-Frumgerð sýnir hvaða útlit á að nota
+* Skipulag _(layout)_ vefsins (teikning, virkni á milli síðna)
 
-* Skipulag _(layout)_ vefsins 
+Útfærslan er í ykkar höndum, t.d. getur það verið teikning á blaði sem er ljósmynduð og skilað á .jpg formati
+
+### Frumgerð (_Prototype_) 
+
+**Í frumgerð erum bara að skoða útlit, flæði og notagildi (UX) á myndum.**
+
+* sýnir skipulag í mismunandi skjástærðum  
 * Litasamsetning
 * Leturval 
-* Myndanotkun
-* Útlit í mismunandi skjástærðum  
+* Staðsetning mynda (rammar)
 
-**Í frumgerð er verið að skoða útlit, áhrif og notagildi (UX). Virkni frumgerðar er engin, við erum bara að skoða tillögur að vef.**
+Útfærslan er í ykkar höndum, það má nota hvaða hugbúnað sem er t.d Photoshop, inDesign ofl.
 
 #### Námsmat 14% af heildareinkunn
 
 * Skipulagsvinna í Github Project
-  * Hugmyndavinna   4%
+  * Hugmyndavinna   3%
   * Vinnuferilskrá  4%
-* Frumgerð vefs     6%
+* Frumgerð _Wireframe_     4%
+* Frumgerð _prototype_     3%
 
 #### Verkefnaskil: Öllum vinnugögnum er skilað í áfangageymsluna 
 

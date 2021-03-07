@@ -57,7 +57,7 @@
 | li:nth-last-child(3n+2) | Structural Pseudo-class | Selects an element that matches the given number or expression, counting all elements from the end of the document tree |
 | p:nth-of-type(3n) | Structural Pseudo-class | Selects an element that matches the given number or expression, counting only elements of its type from the beginning of the document tree
 | p:nth-last-of-type(2n+1) | Structural Pseudo-class | Selects an element that matches the given number or expression, counting only elements of its type from the end of the document tree |
-section:target	Target Pseudo-class	Selects an element whose ID attribute value matches that of the URI fragment identifier |
+| section:target | Target Pseudo-class | Selects an element whose ID attribute value matches that of the URI fragment identifier |
 | div:empty | Empty Pseudo-class | Selects an element that does not contain any children or text nodes |
 | div:not(.awesome) | Negation Pseudo-class | Selects an element not represented by the stated argument |
 

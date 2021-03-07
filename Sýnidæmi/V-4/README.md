@@ -2,8 +2,7 @@
 
 Tabular Data <td> er eina tagið sem er hannað til að sækja gögn af miðlara í hvert sinn sem vefsíða er opnuð, jafnvel þegar flett er á milli síðna. Það er mjög gagnlegt þegar um er að ræða upplýsingar sem uppfærast daglega eða oftar.
 
-Töflur henta ekki í útlithönnun ss til að birta texta og myndir sem breytast ekki. Vafrinn geymir slíkar upplýsingar í vinnsluminni sínu og birtir eftir þörfum. 
-
+Töflur henta ekki í skipulagshönnun vefsíðu. Önnur tög henta betur fyrir texta og myndir. 
 "Table" tagið er erfitt að eiga við þegar kemur að sveigjanleika vefsíðu og best að nota það ekki nema þegar um gagnvirkar færslur er að ræða.  En ef um tiltötlulega fáa dálka er að ræða er hægt að nota aðferð sem er [útskrýrð nánar hér](https://allthingssmitty.com/2016/10/03/responsive-table-layout/)
 
 Notaðu töfluna hér að neðan sem grunn að þínu verkefni. Settu eigin texta og gildi í töfluna. 

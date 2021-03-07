@@ -42,13 +42,5 @@ Notaðu töfluna hér að neðan sem grunn að þínu verkefni. Settu eigin text
         </tr>
     </tbody>
 </table>	
+
 ```
-
-#### Markdown tafla
-
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-
-[Töflur í mardown rithætti](https://docs.github.com/en/github/writing-on-github/organizing-information-with-tables)

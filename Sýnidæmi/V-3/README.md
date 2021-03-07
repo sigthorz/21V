@@ -42,7 +42,7 @@
 | a:visited | Link Pseudo-class | Selects a link that has been visited by a user |
 | a:hover | Action Pseudo-class | Selects an element when a user has hovered their cursor over it |
 | a:active | Action Pseudo-class | Selects an element when a user has engaged it |
-| a:focus | Action Pseudo-class | Selects an element when a user has made it their focus point |
+| input:focus | Action Pseudo-class | Selects an element when a user has made it their focus point |
 | input:enabled | State Pseudo-class | Selects an element in the default enabled state |
 | input:disabled | State Pseudo-class | Selects an element in the disabled state, by way of the disabled attribute |
 | input:checked | State Pseudo-class | Selects a checkbox or radio button that has been checked |

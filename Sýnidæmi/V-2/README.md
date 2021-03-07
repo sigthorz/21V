@@ -6,7 +6,7 @@ SVG teikning og hegðun er skilgreind í XML textaskrám. XML/SVG skrá er hægt
 
 Mozilla Firefox, Internet Explorer, Google Chrome, Opera, Safari og Microsoft Edge - styðja SVG teikningar. SVG forskriftin er opinn staðall sem hefur verið í þróun síðan 1999 af World Wide Web Consortium (W3C).
 
-![basic](basic.svg)
+![basic](basic.svg) ![basic](basic2.svg)
 
 [SVG kvikun](jimmyHendrix.md)
 

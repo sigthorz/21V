@@ -61,4 +61,14 @@
 | div:empty | Empty Pseudo-class | Selects an element that does not contain any children or text nodes |
 | div:not(.awesome) | Negation Pseudo-class | Selects an element not represented by the stated argument |
 
+### Pseudo-elements 
+
+| Example | Classification | Explanation |
+|---|---|---|
+| .alpha:first-letter | Textual Pseudo-elements | Selects the first letter of text within an element |
+| .bravo:first-line | Textual Pseudo-elements | Selects the first line of text within an element |
+| div:before | Generated Content | Creates a pseudo-element inside the selected element at the beginning |
+| a:after | Generated Content | Creates a pseudo-element inside the selected element at the end |
+| ::selection | Fragment Pseudo-element | Selects the part of a document which has been selected, or highlighted, by a users’ actions |
+
 [Complex Selectors](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)

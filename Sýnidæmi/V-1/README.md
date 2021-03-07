@@ -1,20 +1,28 @@
-# Vefauglýsingar
+# HTML kvikun
 
-Vefauglýsingar, annað hvort í formi borða (“bannera”) eða kostaðra tengla með skýringartexta skila mun betri árangri en auglýsingar utan netsins af þeirri einföldu ástæðu að þær virka strax. 
-Þ.e. lesandinn situr við tölvuna og hefur tækifæri til að smella á bannerinn á meðan áhuginn er fyrir hendi. 
+# HTML kvikun (_Animation_) 
 
-Áður en farið er af stað með auglýsingaherferð er rétt að huga að viðtöku þessarar umferðar á heimasíðunni svo að hægt sé að nýta hana sem best.  Kemur neytandinn inn á rétt svæði á heimasíðunni þegar hann smellir á bannerinn?  Fær hann allar nauðsynlegar upplýsingar eða er kannski ástæða til að útbúa sérstaka síðu?  Er góður teljari fyrir hendi svo hægt sé að fylgjast með ferðum neytanda á síðunni?  Er ef til vill hægt að nota þetta tækifæri til að safna áskrifendum á póstlista ....?
-Hvaða kosti þarf góður banner að hafa til að bera?  
+```HTML
+<div class="kvikun"></div>
+```
 
-Góð hönnun skiptir vissulega máli og nauðsynlegt er að bannerinn veki eftirtekt.  Þó verður ekki fram hjá því litið að tilgangurinn er ekki sá að fá lesandann til að dást að bannernum, heldur að galdra fram þessa litlu hreyfingu með vísifingrinum sem allt snýst um.  Í aðalatriðum eru þrjár aðferðir notaðar til að fá fólk til að smella á bannera:
-Að kynna einfaldlega vöruna eða þjónustuna ásamt ástæðum fyrir því að kaupa hana.  (Varan er nýjung, er á góðu tilboði... o.s.fr.).
+```CSS
+.kvikun {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position: relative;
+  animation-name: example;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
 
-* Að vekja forvitni.
-* Að nota leiki eða getraunir með verðlaun í boði.
-* Síðast talda aðferðin hefur þann stóra kost að safna áskrifendum sjálfkrafa á póstlista.
-
-## Hvar á að auglýsa?
-Möguleikar til auglýsinga á netinu eru mjög fjölbreyttir.  Þetta þarf að meta hverju sinni út frá sviði hvers fyrirtækis, þörfum þess og markmiðum.
-
-Fyrir utan stærri vefi, sem flestir þekkja, eru fjölmargir minni vefir á netinu sem sinna ýmsum áhugasviðum eða svæðum.  Slíkir vefir geta verið áhugaverðir kostir.  Þeir geta gefið færi á nákvæmari markhópum og í sumum tilfellum meiri smellafjölda með minni tilkostnaði en fjölsóttari vefir.
-
+@keyframes example {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:200px; top:0px;}
+  50%  {background-color:blue; left:200px; top:200px;}
+  75%  {background-color:green; left:0px; top:200px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
+```
+[W3schools CSS Animations](https://www.w3schools.com/css/css3_animations.asp)

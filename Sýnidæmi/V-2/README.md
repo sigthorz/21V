@@ -8,7 +8,7 @@ Mozilla Firefox, Internet Explorer, Google Chrome, Opera, Safari og Microsoft Ed
 
 ![basic](basic.svg) ![basic](basic2.svg)
 
-[SVG kvikun dæmi](jimmyHendrix.md)
+[SVG kvikun dæmi](jimmihendrix.md)
 
 
 

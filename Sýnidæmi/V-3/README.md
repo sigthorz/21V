@@ -36,7 +36,7 @@
 
 ### Pseudo-classes 
 
-| Example	Classification	Explanation
+| Example | Classification | Explanation |
 |---|---|---|
 | a:link | Link Pseudo-class | Selects a link that has not been visited by a user |
 | a:visited | Link Pseudo-class | Selects a link that has been visited by a user |

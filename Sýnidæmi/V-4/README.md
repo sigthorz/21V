@@ -35,6 +35,7 @@ Notaðu töfluna hér að neðan sem grunn að þínu verkefni. Settu eigin text
             <td data-label="D">Dóra</td>
         </tr>
         <tr>
+            <td scope="row" data-label="AÖ">G</td>
             <td data-label="A">Atli</td>
             <td data-label="B">Bára</td>
             <td data-label="C">Cesar</td>

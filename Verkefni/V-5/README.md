@@ -1,4 +1,4 @@
-# CSS grunnform _CSS boilertemplate_
+# CSS grunnform _CSS boilerplate_
 
 ### Markmið:
 Nemendur öðlast skilning á skipulagningu stílsíðukerfis fyrir vef.

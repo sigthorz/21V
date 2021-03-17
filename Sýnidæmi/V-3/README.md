@@ -32,7 +32,7 @@
 | a[href^="https://"] | Attribute Begins With Selector | Selects an element if the given attribute value begins with the value stated |
 | a[href$=".pdf"] | Attribute Ends With Selector | Selects an element if the given attribute value ends with the value stated |
 | a[rel~="tag"] | Attribute Spaced Selector | Selects an element if the given attribute value is whitespace-separated with one word being exactly as stated |
-| a[lang|="en"] | Attribute Hyphenated Selector | Selects an element if the given attribute value is hyphen-separated and begins with the word stated |
+| a[lang="en"] | Attribute Hyphenated Selector | Selects an element if the given attribute value is hyphen-separated and begins with the word stated |
 
 ### Pseudo-classes 
 

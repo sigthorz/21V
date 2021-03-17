@@ -18,6 +18,8 @@ Notaðu töfluna hér að neðan sem grunn að þínu verkefni. Settu eigin text
             <th scope="col">C</th>
             <th scope="col">D</th>
         </tr>
+        <!-- The scope attribute specifies whether a header cell is a header for a column, row, or group of columns or rows.
+        Note: The scope attribute has no visual effect in ordinary web browsers, but can be used by screen readers. -->
     </thead>
     <tbody>
         <tr>

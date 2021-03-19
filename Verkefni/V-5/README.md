@@ -5,7 +5,6 @@ Nemendur öðlast skilning á skipulagningu stílsíðukerfis fyrir vef.
 
 Þegar komið er að því að hanna vef með skipulögðum hætti er gott að geta stuðst við CSS grunnkerfi þar sem búið er að hanna alla grunnþætti sem nota þarf í vef. Þar má nefna grindakerfi, sveigjanlega hönnun, leturstærðir, form og töflur. 
 
-(**Er í vinnslu**)
 Grid CSS grunnkerfi (_Boilerplate_) er einfalt kerfi sem hentar litlum og miðlungsstórum vefjum. Þar er búið að setja upp ákveðið skipulag sem auðvelt er að skilja og líka auðvelt að breyta og bæta. Grid er tilvalið stökkbretti til að stökkva út í djúpu laugina.
 
 * Búðu Grid skipulag

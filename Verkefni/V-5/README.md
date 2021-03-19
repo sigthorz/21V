@@ -18,6 +18,7 @@ Einssíðu vefur (SPW) með  Grid CSS stílsíðu.
 
 * Grid	7 %
 * Efni í vefsíðu
+  * Texti og myndir
   * Tafla	2%
   * Form	2%
   * Fellilisti (_dropdown menu_)	3% 

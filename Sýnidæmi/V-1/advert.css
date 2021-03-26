@@ -142,6 +142,6 @@ button.thoughtbot:hover, button.thoughtbot:active  {
     Það fer bara eftir því hvar auglýsingin á að birtast */
 
 .augl-rammi {
-    width: 20em; /* ~ 320px */
+    width: 48em; /* ~ 320px */
     margin: auto;
 }

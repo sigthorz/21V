@@ -148,7 +148,7 @@
    <style>
       #kulan {
          animation-name: worldMoves;
-         animation-duration: 33s;
+         animation-duration: 20s;
          animation-iteration-count: infinite;
       }
       @keyframes worldMoves {

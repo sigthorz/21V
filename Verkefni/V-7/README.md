@@ -3,7 +3,7 @@
 ### Markmið:
 Nemendur eiga að geta unnið skipulega að gerð vefs.
 
-Hannið vef sem unnin er samkvæmt undirbúnings- og skipulagsgögnum 6. verkefnis
+#### Hannið vef sem unnin er samkvæmt undirbúnings- og skipulagsgögnum 6. verkefnis
 
 Það sem á að vera á vefnum:
 

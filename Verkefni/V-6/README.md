@@ -42,8 +42,8 @@ Nemendur eiga að nota **GitHub "_Project_"**
 #### Námsmat 14% af heildareinkunn
 
 * Skipulagsvinna í Github _Project_  4%
-* Flæði _Wireframe_     4%
-* Frumgerð _prototype_     6%
+* Flæði - _Wireframe_     4%
+* Frumgerð - _Prototype_     6%
 
 #### Verkefnaskil: Öllum vinnugögnum er skilað í áfangageymsluna 
 

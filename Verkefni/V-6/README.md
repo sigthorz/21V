@@ -33,7 +33,7 @@ Nemendur eiga að nota GitHub "_Project_" bæði í hugmynda- og skipulagsvinnun
 
 ### Frumgerð - _"Prototype"_
 
-**Í frumgerð erum bara að skoða útlit, flæði og notagildi (UX)**
+**Í frumgerð erum við að skoða útlit, flæði og notagildi (UX)**
 
 * Litasamsetning
 * Leturval 

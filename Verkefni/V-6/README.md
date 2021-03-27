@@ -13,19 +13,16 @@ Verkefni 6 er undirbúningvinna og skipulagning lokaverkefnisins. Verkefnið fel
 * Heiti fyritækisins **X** (_sem þið ákveðið_) 
 * Fyrirtækið sérhæfir sig í útgáfu/framleiðslu á **XY** (_sem þið ákveðið_)
 
-### Github - _"Project"_
+### Verkefnastjórn
 
-Nemendur eiga að nota GitHub "_Project_" bæði í hugmynda- og skipulagsvinnuna.
+Nemendur eiga að nota **GitHub "_Project_"**
 
-1. Efnisöflun og hugmyndavinna í _"Project"_
-  * Skráið allar hugmyndir  
-    * Skoðið hvað aðrir hafa gert, safnið saman fyrirmyndum ss tenglum á áhugaverðar vefsíður.
-    * Það má nota texta og myndir af öðrum vefsíðum, munið að gera heimildaskrá 
-2. Skipulagsvinna í _"Project"_
-  * Búið til (Kanban) vinnuferli
-    * hvað á að gera
-    * í vinnslu - hver framkvæmir tiltekna verkþætti
-    * lokið
+1. Hugmyndavinna og efnisöflun
+  * Skráið allar hugmyndir, skoðið hvað aðrir hafa gert, safnið saman fyrirmyndum ss tenglum á áhugaverðar vefsíður.
+2. Verkstjórn
+    * Hvað á að gera (_To do_)
+    * Í vinnslu (_In progress_)
+    * Lokið (_Done_)
 
 ### Flæði - _"Wireframe"_ 
 
@@ -45,10 +42,9 @@ Nemendur eiga að nota GitHub "_Project_" bæði í hugmynda- og skipulagsvinnun
 #### Námsmat 14% af heildareinkunn
 
 * Skipulagsvinna í Github Project
-  * Hugmyndavinna   3%
-  * Vinnuferilskrá  4%
-* Frumgerð _Wireframe_     4%
-* Frumgerð _prototype_     3%
+  * Verkefnastjórn (_Project_)  4%
+* Flæði _Wireframe_     4%
+* Frumgerð _prototype_     6%
 
 #### Verkefnaskil: Öllum vinnugögnum er skilað í áfangageymsluna 
 

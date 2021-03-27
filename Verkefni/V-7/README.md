@@ -23,8 +23,8 @@ Nemendur eiga að geta unnið skipulega að gerð vefs.
 1.	**Skipulag - innihald  6%**
    * SVG lógo er í &lt;header>
    * Myndir og texti
-   * Form 
-   * Tafla
+   * Form - Útlitshönnun - engin virkni
+   * Tafla - Sýnileg í öllum skjástærðum
    * Efnisyfirlit - Fellilisti (_drop-down menu_) 
 2.	**Útlitshönnun  6%**
    * Litasamsetning

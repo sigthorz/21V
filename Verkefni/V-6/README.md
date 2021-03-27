@@ -18,11 +18,11 @@ Verkefni 6 er undirbúningvinna og skipulagning lokaverkefnisins. Verkefnið fel
 Nemendur eiga að nota **GitHub "_Project_"**
 
 1. Hugmyndavinna og efnisöflun
-  * Skráið allar hugmyndir, skoðið hvað aðrir hafa gert, safnið saman fyrirmyndum ss tenglum á áhugaverðar vefsíður.
+   * Skráið allar hugmyndir, skoðið hvað aðrir hafa gert, safnið saman fyrirmyndum ss tenglum á áhugaverðar vefsíður.
 2. Verkstjórn
-    * Hvað á að gera (_To do_)
-    * Í vinnslu (_In progress_)
-    * Lokið (_Done_)
+   * Hvað á að gera (_To do_)
+   * Í vinnslu (_In progress_)
+   * Lokið (_Done_)
 
 ### Flæði - _"Wireframe"_ 
 

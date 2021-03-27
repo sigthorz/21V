@@ -4,7 +4,7 @@
 
 Nemendur geta skipulagt og undirbúið vefgögn til fullvinnslu vefs. 
 
-Verkefni 6 er undirbúningvinna og skipulagning lokaverkefnisins. Verkefnið felst í að skipuleggja og undirbúa gerð kynningarvefs. Umfjöllunarefnið er frjálst og í ykkar höndum.  
+Verkefni 6 er undirbúningvinna og skipulagning lokaverkefnisins. Verkefnið felst í að skipuleggja og undirbúa gerð kynningarvefs. Umfjöllunarefnið er frjálst.  
 
 ### Hugmyndavinna 
 

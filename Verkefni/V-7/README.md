@@ -7,6 +7,7 @@ Nemendur eiga að geta unnið skipulega að gerð vefs.
 
 Það sem á að vera á vefnum:
 
+  * Kvikun (_Animation_) til að fanga athygli notanda
   * Upplýsingar um viðburð
   * Tímasetning
   * Dagskrá
@@ -19,13 +20,20 @@ Nemendur eiga að geta unnið skipulega að gerð vefs.
 
 #### Námsmat:  16% af heildareinkunn
 
-1.	4%  Uppsetning og heildarútlit
-4.	3%  Skeleton grunnstílsíða 
-5.	3%  Efnisyfirlit (drop down menu) er í efnisyfirliti (_menu_)
-6.	3%  Sveigjanleg hönnun, myndir aðlagast mismunandi skjástærðum
-7.	1%  SVG lógo er í &lt;header>
-8.	1%  Form er í vef
-9.	1%  Tafla er í vef
+1.	**Skipulag - innihald  6%**
+   * SVG lógo er í &lt;header>
+   * Myndir og texti
+   * Form 
+   * Tafla
+   * Efnisyfirlit - Fellilisti (_drop-down menu_) 
+2.	**Útlitshönnun  6%**
+   * Litasamsetning
+   * Leturval
+   * Sveigjanleg hönnun, myndir aðlagast mismunandi skjástærðum
+   * Ein stílsíða (þjöppuð) 
+3. **Kvikun  4%**
+   * Á forsíðu er kvikun (_Animation_) notuð til að fanga athygli notanda.
+
 
 #### Verkefnaskil: Öllum vinnugögnum er skilað í áfangageymsluna 
 

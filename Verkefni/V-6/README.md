@@ -13,7 +13,7 @@ Verkefni 6 er undirbúningvinna og skipulagning lokaverkefnisins. Verkefnið fel
 * Heiti fyritækisins **X** (_sem þið ákveðið_) 
 * Fyrirtækið sérhæfir sig í útgáfu/framleiðslu á **XY** (_sem þið ákveðið_)
 
-### Github _"Project"_
+### Github - _"Project"_
 
 Nemendur eiga að nota GitHub "_Project_" bæði í hugmynda- og skipulagsvinnuna.
 
@@ -27,11 +27,11 @@ Nemendur eiga að nota GitHub "_Project_" bæði í hugmynda- og skipulagsvinnun
     * í vinnslu - hver framkvæmir tiltekna verkþætti
     * lokið
 
-### Flæði _"Wireframe"_ 
+### Flæði - _"Wireframe"_ 
 
 * Myndir _(skissur)_ sem sýna skipulag vefsins og virkni á milli síðna. Útfærslan er í ykkar höndum, t.d. getur hún verið teikning á blaði sem er ljósmynduð og skilað á .jpg formati
 
-### Frumgerð (_Prototype_) 
+### Frumgerð - _"Prototype"_
 
 **Í frumgerð erum bara að skoða útlit, flæði og notagildi (UX)**
 

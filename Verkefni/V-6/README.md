@@ -27,22 +27,20 @@ Nemendur eiga að nota GitHub "_Project_" bæði í hugmynda- og skipulagsvinnun
     * í vinnslu - hver framkvæmir tiltekna verkþætti
     * lokið
 
-### Frumgerð _"Wireframe"_ 
+### Flæði _"Wireframe"_ 
 
-* Skipulag _(layout)_ vefsins (teikning, virkni á milli síðna)
-
-Útfærslan er í ykkar höndum, t.d. getur það verið teikning á blaði sem er ljósmynduð og skilað á .jpg formati
+* Myndir _(skissur)_ sem sýna skipulag vefsins og virkni á milli síðna. Útfærslan er í ykkar höndum, t.d. getur hún verið teikning á blaði sem er ljósmynduð og skilað á .jpg formati
 
 ### Frumgerð (_Prototype_) 
 
-**Í frumgerð erum bara að skoða útlit, flæði og notagildi (UX) á myndum.**
+**Í frumgerð erum bara að skoða útlit, flæði og notagildi (UX)**
 
-* sýnir skipulag í mismunandi skjástærðum  
 * Litasamsetning
 * Leturval 
 * Staðsetning mynda (rammar)
+* Skipulag í mismunandi skjástærðum  
 
-Útfærslan er í ykkar höndum, það má nota hvaða hugbúnað sem er t.d Photoshop, inDesign ofl.
+Útfærslan er í ykkar höndum, það má nota hvaða hugbúnað sem er t.d InkScape, Photoshop, InDesign ofl.
 
 #### Námsmat 14% af heildareinkunn
 

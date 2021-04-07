@@ -1,0 +1,53 @@
+.container {
+  margin: 0 auto;
+  width: 50em;
+}
+/*
+  ========================================
+  Schedule
+  ========================================
+*/
+
+table {
+    margin-bottom: 4em;
+    width: 100%;
+    border: 1px dashed;
+  }
+  table:last-child {
+    margin-bottom: 0;
+  }
+  th,
+  td {
+    padding-bottom: 1em;
+  }
+  th {
+    padding-right: 4em;
+    text-align: right;
+    width: 20%;
+  }
+  td {
+    width: 40%;
+    padding-right: 2em;
+  }
+  thead {
+    line-height: 3.5em;
+  }
+  thead th {
+    color: #648880;
+    font-size: 1.5em;
+  }
+  tbody th {
+    color: #a9b2b9;
+    font-size: 1em;
+    font-weight: 400;
+    text-transform: uppercase;
+  }
+  tbody td {
+    border-top: 1px solid #dfe2e5;
+  }
+  table a {
+    color: #888;
+  }
+  table h4 {
+    margin-bottom: 0;
+  }

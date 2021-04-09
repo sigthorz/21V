@@ -48,6 +48,13 @@ Eftirfarnandi skilyrði (_required_) þarf að uppfylla áður form er sent af s
 * 4% &lt;input -text, -email, -radio, -checkbox, date, select> og &lt;textarea> er í forminu 
 * 4% Ekki á að vera hægt að senda (submit) form fyrr en ákveðin skilyrði (required)  eru uppfyllt.
 
-  
-<!--* [Fylgigögn](https://github.com/vefhonnun/21V/tree/main/S%C3%BDnid%C3%A6mi/V-4)-->
+[Fylgigögn](https://github.com/vefhonnun/21V/tree/main/S%C3%BDnid%C3%A6mi/V-4)
+
+### Verkefnaskil
+
+Öllum vinnugögnum á að skila í áfangageymsluna þína.
+
+Einkunn verður birt í Innu.
+
+_Gangi þér vel_
 

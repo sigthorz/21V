@@ -7,7 +7,7 @@ Töflur henta ekki í skipulagshönnun vefsíðu. Önnur tög henta betur fyrir 
 
 Notaðu töfluna hér að neðan sem grunn að þínu verkefni. Settu eigin texta og gildi í töfluna. 
 
-```
+```HTML
 <table>
     <caption>Titill töflu</caption>
     <thead>

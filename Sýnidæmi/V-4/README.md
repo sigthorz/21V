@@ -52,8 +52,9 @@ Notaðu töfluna hér að neðan sem grunn að þínu verkefni. Settu eigin text
 
 ```HTML
 
-    <form action="/https://www.w3schools.com/html/html_forms.asp" method="GET">
-      <input type="submit" name= "Ná í upplýsingar um form tagið">
-    </form>
+    <form action="https://www.w3schools.com/html/html_forms.asp" method="GET">
+        <input type="submit" value= "Ná í upplýsingar um form tagið">
+      </form>
+
 
 ```

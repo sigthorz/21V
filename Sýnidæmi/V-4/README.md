@@ -1,4 +1,4 @@
-# Töflur
+# Tafla &lt;table>
 
 Tabular Data <td> er eina tagið sem er hannað til að sækja gögn af miðlara í hvert sinn sem vefsíða er opnuð, jafnvel þegar flett er á milli síðna. Það er mjög gagnlegt þegar um er að ræða upplýsingar sem uppfærast daglega eða oftar.
 
@@ -45,5 +45,15 @@ Notaðu töfluna hér að neðan sem grunn að þínu verkefni. Settu eigin text
         </tr>
     </tbody>
 </table>	
+
+```
+
+# Form &lt;form>
+
+```HTML
+
+    <form action="/https://www.w3schools.com/html/html_forms.asp" method="GET">
+      <input type="submit" name= "Ná í upplýsingar um form tagið">
+    </form>
 
 ```

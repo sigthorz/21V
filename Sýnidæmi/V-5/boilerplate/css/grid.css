@@ -84,7 +84,6 @@
 .col-5f,
 .col-6f {
   display: grid;
-  grid-gap: 1em;
   row-gap: 1em;
 }
 .col-1f {
@@ -104,4 +103,9 @@
 }
 .col-6f {
   grid-template-columns: repeat(6, 1fr);
+}
+@media screen and (min-width:48em) {
+  .col-2f, .col-3f, .col-4f, .col-5f, .col-6f {
+    grid-gap: 1em;
+  }
 }

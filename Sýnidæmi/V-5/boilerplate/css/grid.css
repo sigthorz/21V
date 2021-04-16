@@ -10,7 +10,6 @@
 .col-6 {
   display: grid;
   grid-template-columns: 1fr;
-  grid-gap: 1em;
   row-gap: 1em;
 }
 .container {
@@ -38,11 +37,13 @@
   .col-4 {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    grid-gap:1em;
   }
   .col-3,
   .col-5,
   .col-6 {
     grid-template-columns: 1fr 1fr 1fr;
+    grid-gap:1em;
   }
 }
 

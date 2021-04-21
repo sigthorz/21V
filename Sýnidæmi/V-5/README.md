@@ -9,7 +9,7 @@ Meðfylgjandi er CSS grunnur (boilerplate) sem þú getur hlaðið á þína tö
 
 1. Opna línuskipanaforrit (CMP) 
 2. `cd ../css` (vísa CMD í css möppuna)
-3. `dir *. ` (sýna allar css skrár)
+3. `dir *.css ` (sýna allar css skrár)
 4. `copy *.css styles.css ` (afritar allar .css skrár í styles.css)
 
 [Heimild](https://www.youtube.com/watch?v=2VrfUyyqdEc)

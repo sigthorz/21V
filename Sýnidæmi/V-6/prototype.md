@@ -9,6 +9,8 @@ Við byrjum á að ákveða hvaða grunnlitir, tákn og leturgerðir eru notaði
 ![Stílbragð](inkscape_style-tile.png)
 _Hér sjáum við litasamsetningu og leturval sem notað er í Inkscape vefnum._ 
 
+Síðan búum við til síðu sem sýnir uppbyggingu vefsins með réttri litasamsetningu og leturgerðum. Í þeirri vinnu getum við breytt og bætt hönnunina þannig að þegar vefsíðan er búin til þá er hægt að ganga að því vísu að útlitinu verði ekki breytt. 
+
 ### Inkscape stillingar
 
 Við búum til Inkscape skjöl sem eru sett upp í mismunandi stærðum og höfum stærð þeirra með sömu breidd og algengar skjástærðir eru. Við stillum einingamál (_Units_) Inkscape í **Pixel**.

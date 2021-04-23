@@ -22,7 +22,7 @@ Hér er dæmi um leiðarkerfi (_Navigation_) fyrir vef sem er með rit- og umsj�
 
 ## Tengirammi (_Wireframe_)
 
-Næsta skref er að teikna upp skipulag á blaði sem sýnir aðeins staðsetningu efnis á skjá, texti og myndir eru skilgreind sem box. 
+Næsta skref er að teikna upp skipulag á blaði sem sýnir aðeins staðsetningu efnis í mismunandi skjástærðum. Texti og myndir eru skilgreind sem línur og box. Tengingar (_links_) eru sýndar í öðrum lit.
 
 ![Tengirammi](Wireframe.svg)
 

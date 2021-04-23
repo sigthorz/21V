@@ -33,7 +33,7 @@ Við búum til Inkscape skjöl sem eru sett upp í mismunandi stærðum og höfu
 
 ![mynd hér]()
 
-Hér er upptalning á stærðum sem hægt er að nota, það dugar að velja aðra hvora skjástærðina í lóðréttri og láréttri stöðu. 
+Hér er upptalning á stærðum sem hægt er að nota (Það dugar að velja annað hvort Galaxy eða iPhone skjástærðina). 
 
 1. Farsímar - lóðrétt staða (_Portrait_)
    * 360 x 2000 (skjástærð 360 x 640 - Galaxy S5) 

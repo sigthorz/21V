@@ -7,9 +7,9 @@ Við höfum tengirammann (_Wireframe_) til hliðsjónar við að búa til frumge
 Við byrjum á að ákveða hvaða grunnlitir, tákn og leturgerðir eru notaðir í vefnum.  
 
 ![Stílbragð](inkscape_style-tile.png)<br>
-_Hér sjáum við litasamsetningu og leturval sem notað er í Inkscape vefnum._ 
+_Hér sjáum við litasamsetningu og leturval sem notað er í Inkscape vefnum, ásamt táknum sem styðja við framsetningu vefsins._ 
 
-Síðan búum við til síðu sem sýnir uppbyggingu vefsins með réttri litasamsetningu og leturgerðum. Í þeirri vinnu getum við breytt og bætt hönnunina þannig að þegar vefsíðan er búin til þá er hægt að ganga að því vísu að útlitinu verði ekki breytt. 
+Síðan búum við til síðu sem sýnir uppbyggingu vefsins með réttri litasamsetningu og leturgerðum. Myndir er tómir rammar og textinn er "_dummy_" texti. Í þeirri vinnu getum við breytt og bætt hönnunina þannig að þegar frumgerðin er búin til þá er hægt að ganga að því vísu hvernig útlit og skipulag vefsins verður. 
 
 ### Inkscape stillingar
 

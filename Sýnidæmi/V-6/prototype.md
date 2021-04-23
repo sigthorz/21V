@@ -28,4 +28,12 @@ Hér er upptalning á stærðum sem hægt er að nota í Inkscape
 6. Fartölvur og borðtölvur
    * 1600 x 2000 (skjástærð 1600 - 1050) 
 
+## Grid - 16px = 1em
+
+Til að auðvelda endanlega hönnun er skynsamlegt að nota sömu grunn eininguna 16px (1em) og er notuð í vefsíðugerð. Í Inkscape stillum við Grid eins og sýnt er hér á mynd.
+
+![Grid 16px](grids-16px.jpg)
+
+Með 16px grid er auðvelt að skilgreina stærðir.
+
 [Bjargir](https://github.com/vefhonnun/21V/wiki/Bjargir#skipulagning-og-h%C3%B6nnun)

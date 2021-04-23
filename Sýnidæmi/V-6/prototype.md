@@ -3,7 +3,8 @@
 Við höfum tengirammann (_Wireframe_) til hliðsjónar við að búa til frumgerðina. Inkscape teikniforritið hentar vel til að búa til frumgerð að litlum vef. 
 
 ### Stílbragð (_Style tyle_)
-Hér er hægt að ákveða hvaða grunnlitir eru notaðir í vefnum, tákn og leturgerðir.  
+
+Við byrjum á að ákveða hvaða grunnlitir, tákn og leturgerðir eru notaðir í vefnum.  
 
 ![Stílbragð](inkscape_style-tile.png)
 _Hér sjáum við litasamsetningu og leturval sem notað er í Inkscape vefnum._ 

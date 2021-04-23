@@ -34,7 +34,7 @@ Síðan útfærum við teikninguna yfir í Inkscape og höfum tóma ramma fyrir 
 
 Við búum til Inkscape skjöl sem eru sett upp í mismunandi stærðum og höfum stærð þeirra með sömu breidd og algengar skjástærðir eru. Við stillum einingamál Inkscape í **Pixel**.
 
-![mynd hér]()
+![Inkscape document properties](document-properties.jpg)
 
 Hér er upptalning á stærðum sem hægt er að nota í Inkscape
 

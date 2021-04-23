@@ -1,8 +1,14 @@
 # Frumgerð í Inkscape (_Prototype_)
 
-Við höfum tengirammann til hliðsjónar við að búa til frumgerð. Inkscape teikniforritið hentar vel til að búa til frumgerð að litlum vef. Hér er hægt að ákveða hvaða grunnlitir eru notaðir í vefnum, tákn og leturgerðir. Innihald vefsins  er sýnt sem tómir myndarammar og dummy texti (_Lorem Ipsum..._). 
+Við höfum tengirammann (_Wireframe_) til hliðsjónar við að búa til frumgerðina. Inkscape teikniforritið hentar vel til að búa til frumgerð að litlum vef. 
 
-![Stílsíða](inkscape_style-tile.png)
+### Stílbragð (_Style tyle_)
+Hér er hægt að ákveða hvaða grunnlitir eru notaðir í vefnum, tákn og leturgerðir.  
+
+![Stílbragð](inkscape_style-tile.png)
+_Hér sjáum við litasamsetningu og leturval sem notað er í Inkscape vefnum._ 
+
+### Inkscape stillingar
 
 Við búum til Inkscape skjöl sem eru sett upp í mismunandi stærðum og höfum stærð þeirra með sömu breidd og algengar skjástærðir eru. Við stillum einingamál (_Units_) Inkscape í **Pixel**.
 
@@ -37,5 +43,9 @@ Til að auðvelda endanlega hönnun er skynsamlegt að nota sömu grunn einingun
 Með 16px grid er auðvelt að skilgreina stærðir.
 
 ![Grid 16px](Skjámynd1280x800.jpg)
+
+#### Dæmi um frumgerð sem er unnin í Inkscape
+
+![mynd vantar hér]()
 
 [Bjargir](https://github.com/vefhonnun/21V/wiki/Bjargir#skipulagning-og-h%C3%B6nnun)

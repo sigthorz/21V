@@ -36,6 +36,6 @@ Til að auðvelda endanlega hönnun er skynsamlegt að nota sömu grunn einingun
 
 Með 16px grid er auðvelt að skilgreina stærðir.
 
-![Grid 16px](Skjástærð1280x800.svg)
+![Grid 16px](Skjámynd1280x800.jpg)
 
 [Bjargir](https://github.com/vefhonnun/21V/wiki/Bjargir#skipulagning-og-h%C3%B6nnun)

@@ -1,4 +1,4 @@
-# Tengirammi (_Wireframe_)
+# Undirbúningur
 
 Þegar byrjað er á að hanna vef þarf að skipuleggja innihald vefsins og hvernig samkskipti við notendur eiga að fara fram.
 
@@ -13,17 +13,21 @@
 
 <hr>
 
+## Leiðakerfi (_Site map_)
+
 Hér er dæmi um leiðarkerfi (_Navigation_) fyrir vef sem er með rit- og umsjónarkerfi (_CMS Content Management System_). Við erum ekki að fara hanna svona flókinn vef en við getum haft hann til fyrirmyndar fyrir vefinn okkar.
 
 ![Leiðakerfi vefs](site-map-2015.svg)
 
 <hr>
 
+## Tengirammi (_Wireframe_)
+
 Næsta skref er að teikna upp skipulag á blaði sem sýnir aðeins staðsetningu efnis á skjá, texti og myndir eru skilgreind sem box. 
 
 ![Tengirammi](Wireframe.svg)
 
-## Wireframe í Inkscape
+## Frumgerð í Inkscape (_Prototype_)
 
 Síðan útfærum við hugmyndina yfir í Inkscape og höfum tóma ramma fyrir myndir og dummy texta (_Lorem Ipsum..._) Hér er einnig hægt að ákveða hvaða grunnlitir eru notaðir í vefnum.
 

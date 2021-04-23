@@ -1,6 +1,6 @@
 # Frumgerð í Inkscape (_Prototype_)
 
-Við höfum tengirammann (_Wireframe_) til hliðsjónar við að búa til frumgerð að lokaverkefni áfnagans. Inkscape teikniforritið hentar vel til að búa til frumgerð að litlum vef. 
+Við höfum tengirammann (_Wireframe_) til hliðsjónar við að búa til frumgerð að lokaverkefni áfangans. Inkscape teikniforritið hentar vel til að búa til frumgerð að litlum vef. 
 
 ### Stílbragð (_Style tyle_)
 

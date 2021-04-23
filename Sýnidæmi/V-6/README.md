@@ -15,14 +15,17 @@
 
 Hér er dæmi um leiðarkerfi (_Navigation_) fyrir vef sem er með rit- og umsjónarkerfi (_CMS Content Management System_). Við erum ekki að fara hanna svona flókinn vef en við getum haft hann til fyrirmyndar fyrir vefinn okkar.
 
-![mynd hér](site-map-2015.svg)
+![Leiðakerfi vefs](site-map-2015.svg)
+
+<hr>
 
 Næsta skref er að teikna upp skipulag á blaði sem sýnir aðeins staðsetningu efnis á skjá, texti og myndir eru skilgreind sem box. 
 
+![Tengirammi](Wireframe.svg)
 
 ## Wireframe í Inkscape
 
-Síðan útfærum við hugmyndina yfir í Inkscape og höfum tóma ramma fyrir myndir og dummy texta (_Lorem Ipsum..._) Hér má bæta við litaspjaldi.
+Síðan útfærum við hugmyndina yfir í Inkscape og höfum tóma ramma fyrir myndir og dummy texta (_Lorem Ipsum..._) Hér er einnig hægt að ákveða hvaða grunnlitir eru notaðir í vefnum.
 
 ![mynd hér]()
 

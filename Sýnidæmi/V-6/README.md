@@ -6,9 +6,9 @@
 2. Forsíða (löndunarsíða (_landing page_))
 3. Dagskrá eða vörulýsing
 4. Samskipti 
-    - nýskráning 
-    - innskráning 
-    - viðskipti 
+  * nýskráning 
+  * innskráning 
+  * viðskipti 
 5. Upplýsingar um fyrirtækið
 
 ## Wireframe í Inkscape
@@ -18,12 +18,12 @@ Við búum til Inkscape skjöl sem eru sett upp í mismunandi stærðum og höfu
 ![mynd hér]()
 
 1. Farsímar - lóðrétt staða (_Portrait_)
-  a. 360 x 2000 (skjástærð 360 x 640 - Galaxy S5) 
-  b. 375 x 2000 (skjástærð 375 x 667 - iPhone 6/7/8)
+  * 360 x 2000 (skjástærð 360 x 640 - Galaxy S5) 
+  * 375 x 2000 (skjástærð 375 x 667 - iPhone 6/7/8)
 
 2. Farsímar - lárétt staða (_Landscape_)
-  a. 640 x 2000 (skjástærð 640 x 360 - Galaxy S5) 
-  b. 667 x 2000 (skjástærð 667 - 375 iPhone 6/7/8)
+  * 640 x 2000 (skjástærð 640 x 360 - Galaxy S5) 
+  * 667 x 2000 (skjástærð 667 - 375 iPhone 6/7/8)
 
 3. Spjaldtölvur lóðrétt staða (_Portrait_)
     760 x 2000 (skjástærð 760 - 1024 iPad) 

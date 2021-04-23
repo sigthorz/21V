@@ -1,4 +1,4 @@
-# Tenglarammi (Wireframe)
+# Tengirammi (_Wireframe_)
 
 Þegar byrjað er á að hanna vef þarf að skipuleggja innihald vefsins og hvernig samkskipti við notendur eiga að fara fram.
 
@@ -10,6 +10,10 @@
    * innskráning 
    * viðskipti 
 5. Upplýsingar um fyrirtækið
+
+Við byrjum á að teikna upp skipulag á blaði sem sýnir aðeins staðsetningu efnis, texti og myndir eru skilgreind sem box. Síðan útfærum við hugmyndina yfir í Inkscape og höfum tóma ramma fyrir myndir og dummy texta (_Lorem Ipsum..._) Hér má bæta við litum.
+
+![mynd hér]()
 
 ## Wireframe í Inkscape
 

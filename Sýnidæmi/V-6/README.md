@@ -13,7 +13,7 @@
 
 Við byrjum á að teikna upp skipulag á blaði sem sýnir aðeins staðsetningu efnis, texti og myndir eru skilgreind sem box. 
 
-![mynd hér](site-map-2015)
+![mynd hér](site-map-2015.svg)
 
 ## Wireframe í Inkscape
 

@@ -1,12 +1,12 @@
 # Frumgerð í Inkscape (_Prototype_)
 
-Við höfum tengirammann (_Wireframe_) til hliðsjónar við að búa til frumgerðina. Inkscape teikniforritið hentar vel til að búa til frumgerð að litlum vef. 
+Við höfum tengirammann (_Wireframe_) til hliðsjónar við að búa til frumgerð að lokaverkefni áfnagans. Inkscape teikniforritið hentar vel til að búa til frumgerð að litlum vef. 
 
 ### Stílbragð (_Style tyle_)
 
 Við byrjum á að ákveða hvaða grunnlitir, tákn og leturgerðir eru notaðir í vefnum.  
 
-![Stílbragð](inkscape_style-tile.png)
+![Stílbragð](inkscape_style-tile.png)<br>
 _Hér sjáum við litasamsetningu og leturval sem notað er í Inkscape vefnum._ 
 
 Síðan búum við til síðu sem sýnir uppbyggingu vefsins með réttri litasamsetningu og leturgerðum. Í þeirri vinnu getum við breytt og bætt hönnunina þannig að þegar vefsíðan er búin til þá er hægt að ganga að því vísu að útlitinu verði ekki breytt. 

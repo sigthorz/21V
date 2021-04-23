@@ -4,7 +4,7 @@ Við höfum tengirammann til hliðsjónar við að búa til frumgerð. Inkscape 
 
 ![Stílsíða](inkscape_style-tile.png)
 
-Við búum til Inkscape skjöl sem eru sett upp í mismunandi stærðum og höfum stærð þeirra með sömu breidd og algengar skjástærðir eru. Við stillum einingamál Inkscape í **Pixel**.
+Við búum til Inkscape skjöl sem eru sett upp í mismunandi stærðum og höfum stærð þeirra með sömu breidd og algengar skjástærðir eru. Við stillum einingamál (_Units_) Inkscape í **Pixel**.
 
 ![Inkscape document properties](document-properties.jpg)
 

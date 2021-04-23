@@ -29,9 +29,9 @@ Næsta skref er að teikna upp skipulag á blaði sem sýnir aðeins staðsetnin
 
 ## Frumgerð í Inkscape (_Prototype_)
 
-Síðan útfærum við hugmyndina yfir í Inkscape og höfum tóma ramma fyrir myndir og dummy texta (_Lorem Ipsum..._) Hér er einnig hægt að ákveða hvaða grunnlitir eru notaðir í vefnum.
+Síðan útfærum við teikninguna yfir í Inkscape og höfum tóma ramma fyrir myndir og dummy texta (_Lorem Ipsum..._). Hér er einnig hægt að ákveða hvaða grunnlitir eru notaðir í vefnum og leturgerð.
 
-![mynd hér]()
+![Stílsíða](inkscape_style-tile.png)
 
 Við búum til Inkscape skjöl sem eru sett upp í mismunandi stærðum og höfum stærð þeirra með sömu breidd og algengar skjástærðir eru. Við stillum einingamál Inkscape í **Pixel**.
 

@@ -25,6 +25,13 @@
        width="6"
        patternUnits="userSpaceOnUse"
        id="EMFhbasepattern" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-4" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -34,21 +41,23 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="629.31914"
-     inkscape:cy="405.00049"
+     inkscape:cx="475.88367"
+     inkscape:cy="402.11732"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-grids="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1794"
+     inkscape:window-height="991"
+     inkscape:window-x="26"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      inkscape:showpageshadow="true"
      borderlayer="false"
-     inkscape:pagecheckerboard="false">
+     inkscape:pagecheckerboard="false"
+     showguides="true"
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid815"
@@ -64,7 +73,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -83,20 +92,47 @@
            height="52.527931"
            x="16.162441"
            y="16.121624" /></flowRegion><flowPara
-         id="flowPara4528"></flowPara></flowRoot>    <text
+         id="flowPara4528" /></flowRoot>    <text
        id="text4559"
        y="98.874115"
        x="8.8317862"
-       style="font-style:normal;font-variant:normal;font-weight:700;font-size:3.9026041px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-size:3.9026041px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;-inkscape-font-specification:'Arial Bold';font-stretch:normal;"
        xml:space="preserve"><tspan
          id="tspan4557"
          y="98.874115"
          x="8.8317862"
          sodipodi:role="line"
-         style="font-size:8.46666622px;stroke-width:0.26458332"><tspan
+         style="font-size:8.46666622px;stroke-width:0.26458332;-inkscape-font-specification:'Arial Bold';font-family:Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"><tspan
            id="tspan4533"
-           style="font-style:normal;font-variant:normal;font-weight:700;font-size:8.46666622px;font-family:Calibri;fill:#000000;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-size:8.46666622px;font-family:Arial;fill:#000000;stroke-width:0.26458332;-inkscape-font-specification:'Arial Bold';font-stretch:normal;"
            dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">Skjástærð: 1280 x 800 pixlar. 16px grid = 1em. </tspan></tspan></text>
+    <text
+       id="text4537"
+       y="138.41673"
+       x="41.33419"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:16.98039246px;line-height:125%;font-family:'Roboto Slab';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.15611184"
+       xml:space="preserve"><tspan
+         id="tspan4535"
+         y="138.41673"
+         x="41.33419"
+         sodipodi:role="line"
+         style="stroke-width:1.15611184"><tspan
+           id="tspan4527"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:16.98039246px;font-family:'Roboto Slab';fill:#000000;stroke-width:1.15611184"
+           dy="0"
+           dx="0">Roboto </tspan><tspan
+           id="tspan4529"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:16.98039246px;font-family:'Roboto Slab';fill:#000000;stroke-width:1.15611184"
+           dy="0"
+           dx="0">Sla</tspan><tspan
+           id="tspan4531"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:16.98039246px;font-family:'Roboto Slab';fill:#000000;stroke-width:1.15611184"
+           dy="0"
+           dx="-1.6935096">b</tspan><tspan
+           id="tspan4533-6"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:16.98039246px;font-family:'Roboto Slab';fill:#000000;stroke-width:1.15611184"
+           dy="0"
+           dx="-1.3362885"> </tspan></tspan></text>
   </g>
 </svg>

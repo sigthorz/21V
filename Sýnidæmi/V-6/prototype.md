@@ -9,7 +9,11 @@ Við byrjum á að ákveða hvaða grunnlitir, tákn og leturgerðir eru notaði
 ![Stílbragð](inkscape_style-tile.png)<br>
 _Hér sjáum við litasamsetningu og leturval sem notað er í Inkscape vefnum, ásamt táknum sem styðja við framsetningu vefsins._ 
 
-Síðan búum við til síðu sem sýnir uppbyggingu vefsins með réttri litasamsetningu og leturgerðum. Myndir er tómir rammar og textinn er "_dummy_" texti. Í þeirri vinnu getum við breytt og bætt hönnunina þannig að þegar frumgerðin er búin til þá er hægt að ganga að því vísu hvernig útlit og skipulag vefsins verður. 
+#### Dæmi um frumgerð sem er unnin í Inkscape
+
+Síðan búum við til síðu í _Inkscape_ sem sýnir uppbyggingu vefsins með réttri litasamsetningu og leturgerðum. Myndir er tómir rammar og textinn er "_dummy_" texti. Í þeirri vinnu getum við breytt og bætt hönnunina þannig að þegar frumgerðin er tilbúin þá er útlit og skipulag vefsins klárt í mismunandi skjástærðum. 
+
+![frummynd vantar hér]()
 
 ### Inkscape stillingar
 
@@ -46,9 +50,5 @@ Til að auðvelda endanlega hönnun er skynsamlegt að nota sömu grunn einingun
 Með 16px grid er auðvelt að skilgreina stærðir.
 
 ![Grid 16px](Skjámynd1280x800.jpg)
-
-#### Dæmi um frumgerð sem er unnin í Inkscape
-
-![mynd vantar hér]()
 
 [Bjargir](https://github.com/vefhonnun/21V/wiki/Bjargir#skipulagning-og-h%C3%B6nnun)

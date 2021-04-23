@@ -11,15 +11,21 @@
    * viðskipti 
 5. Upplýsingar um fyrirtækið
 
-Við byrjum á að teikna upp skipulag á blaði sem sýnir aðeins staðsetningu efnis, texti og myndir eru skilgreind sem box. Síðan útfærum við hugmyndina yfir í Inkscape og höfum tóma ramma fyrir myndir og dummy texta (_Lorem Ipsum..._) Hér má bæta við litum.
+Við byrjum á að teikna upp skipulag á blaði sem sýnir aðeins staðsetningu efnis, texti og myndir eru skilgreind sem box. 
 
-![mynd hér]()
+![mynd hér](site-map-2015)
 
 ## Wireframe í Inkscape
+
+Síðan útfærum við hugmyndina yfir í Inkscape og höfum tóma ramma fyrir myndir og dummy texta (_Lorem Ipsum..._) Hér má bæta við litaspjaldi.
+
+![mynd hér]()
 
 Við búum til Inkscape skjöl sem eru sett upp í mismunandi stærðum og höfum stærð þeirra með sömu breidd og algengar skjástærðir eru. Við stillum einingamál Inkscape í **Pixel**.
 
 ![mynd hér]()
+
+Hér er upptalning á stærðum sem hægt er að nota, það dugar að velja aðra hvora skjástærðina í lóðréttri og láréttri stöðu. 
 
 1. Farsímar - lóðrétt staða (_Portrait_)
    * 360 x 2000 (skjástærð 360 x 640 - Galaxy S5) 

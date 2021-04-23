@@ -2,14 +2,13 @@
 
 Þegar byrjað er á að hanna vef þarf að skipuleggja innihald vefsins og hvernig samkskipti við notendur eiga að fara fram.
 
-1. Efnisyfirlit
-2. Forsíða (löndunarsíða (_landing page_))
-3. Dagskrá eða vörulýsing
-4. Samskipti 
+1. Forsíða (löndunarsíða (_Landing page_)
+2. Dagskrá eða vörulýsing (_Features_)
+4. Samskipti (_Contact_)
    * nýskráning 
    * innskráning 
-   * viðskipti 
-5. Upplýsingar um fyrirtækið
+   * viðskipti (_Buy - Order_)
+5. Almennar upplýsingar (_About Us_)
 
 <hr>
 
@@ -29,7 +28,7 @@ Næsta skref er að teikna upp skipulag á blaði sem sýnir aðeins staðsetnin
 
 ## Frumgerð í Inkscape (_Prototype_)
 
-Síðan útfærum við teikninguna yfir í Inkscape og höfum tóma ramma fyrir myndir og dummy texta (_Lorem Ipsum..._). Hér er einnig hægt að ákveða hvaða grunnlitir eru notaðir í vefnum og leturgerð.
+Síðan útfærum við teikninguna yfir í Inkscape og höfum tóma ramma fyrir myndir og dummy texta (_Lorem Ipsum..._). Hér er einnig hægt að ákveða hvaða grunnlitir eru notaðir í vefnum, tákn og leturgerðir.
 
 ![Stílsíða](inkscape_style-tile.png)
 

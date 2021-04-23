@@ -13,7 +13,7 @@
 
 <hr>
 
-Hér er dæmi um leiðarkefri fyrir vef sem er með rit- og umsjónarkerfi (CMS Content Management System). Við erum ekki að fara hanna svona flókinn vef en við getum byrjað á að hanna leiðarkerfi (_navigation_) fyrir vefinn okkar með sama hætti.
+Hér er dæmi um leiðarkerfi fyrir vef sem er með rit- og umsjónarkerfi (CMS Content Management System). Við erum ekki að fara hanna svona flókinn vef en við getum byrjað á að hanna leiðarkerfi (_navigation_) fyrir vefinn okkar með sama hætti.
 
 ![mynd hér](site-map-2015.svg)
 

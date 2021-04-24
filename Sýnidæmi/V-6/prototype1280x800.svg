@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
      inkscape:cx="437.51888"
-     inkscape:cy="1769.5662"
+     inkscape:cy="1809.9723"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -112,6 +112,27 @@
        height="118.53333"
        x="6.9777517e-14"
        y="76.866661" />
+    <rect
+       style="opacity:1;fill:#d38d5f;fill-opacity:1;stroke:none;stroke-width:0.24338126;stroke-opacity:0"
+       id="rect5589"
+       width="338.66666"
+       height="139.70001"
+       x="0"
+       y="-287.20001" />
+    <rect
+       style="opacity:1;fill:#deaa87;fill-opacity:1;stroke:none;stroke-width:0.22361369;stroke-opacity:0"
+       id="rect5591"
+       width="338.66666"
+       height="105.83333"
+       x="0"
+       y="-147.5" />
+    <rect
+       style="opacity:1;fill:#f4e3d7;fill-opacity:1;stroke:none;stroke-width:0.2555654;stroke-opacity:0"
+       id="rect5593"
+       width="338.66666"
+       height="118.49033"
+       x="0"
+       y="-41.623692" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -279,12 +300,12 @@
        x="182.03333"
        y="-21.16666" />
     <rect
-       style="display:inline;opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1.00634456;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.98086333;stroke-opacity:1"
        id="rect833-3-8"
        width="131.23332"
-       height="84.666672"
+       height="80.433342"
        x="182.03334"
-       y="190.5" />
+       y="203.20001" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -297,12 +318,12 @@
          y="83.771828"
          style="font-size:8.46666622px;fill:#550000;stroke-width:0.26458332">WHEN</tspan></text>
     <rect
-       style="display:inline;opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.95470232;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.92780387;stroke-opacity:1"
        id="rect833-3-6"
        width="131.23334"
-       height="76.199997"
+       height="71.96666"
        x="25.399996"
-       y="93.133339" />
+       y="97.366676" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -318,7 +339,7 @@
        xml:space="preserve"
        id="flowRoot5422"
        style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26680776,0,0,0.27767141,101.15259,-156.55412)"><flowRegion
+       transform="matrix(0.26680776,0,0,0.27767141,101.15259,-152.32076)"><flowRegion
          id="flowRegion5424"
          style="font-size:21.33333397px"><rect
            id="rect5426"
@@ -408,19 +429,19 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="25.394228"
-       y="184.31349"
+       x="25.661497"
+       y="189.65889"
        id="text5385-6"><tspan
          sodipodi:role="line"
          id="tspan5383-9"
-         x="25.394228"
-         y="184.31349"
+         x="25.661497"
+         y="189.65889"
          style="font-size:8.46666622px;fill:#550000;stroke-width:0.26458332">WHY</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot5422-7"
        style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26680777,0,0,0.2776714,-55.624478,-59.172642)"><flowRegion
+       transform="matrix(0.26680777,0,0,0.2776714,-55.089939,-46.648579)"><flowRegion
          id="flowRegion5424-1"
          style="font-size:21.33333397px"><rect
            id="rect5426-7"

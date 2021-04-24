@@ -24,22 +24,24 @@ Við búum til Inkscape skjöl sem eru sett upp í mismunandi stærðum og höfu
 Hér er upptalning á stærðum sem hægt er að nota í Inkscape
 
 1. Farsímar - lóðrétt staða (_Portrait_)
-   * 360 x 2000 (skjástærð 360 x 640 - Galaxy S5) 
+   * 360 x 3200 (skjástærð 360 x 640 - Galaxy S5) 
 
 2. Farsímar - lárétt staða (_Landscape_)
-   * 640 x 2000 (skjástærð 640 x 360 - Galaxy S5) 
+   * 640 x 3200 (skjástærð 640 x 360 - Galaxy S5) 
 
 3. Spjaldtölvur lóðrétt staða (_Portrait_)
-   * 760 x 2000 (skjástærð 760 - 1024 - iPad) 
+   * 760 x 3200 (skjástærð 760 - 1024 - iPad) 
 
 4. Spjaldtölvur lárétt staða (_Landscape_)
-   * 1024 x 2000 (skjástærð 1024 - 760 iPad) 
+   * 1024 x 3200 (skjástærð 1024 - 760 iPad) 
 
 5. Fartölvur 
-   * 1280 x 2000 (skjástærð 1280 - 1024) 
+   * 1280 x 3200 (skjástærð 1280 - 1024) 
 
 6. Fartölvur og borðtölvur
-   * 1600 x 2000 (skjástærð 1600 - 1050) 
+   * 1600 x 3200 (skjástærð 1600 - 1050) 
+
+Hæð skjalsin ræðst af innihaldi vefsins þannig að 3200px er bara tala sem gengur upp í 16.
 
 ## Grid - 16px = 1em
 

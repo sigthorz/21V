@@ -4,14 +4,16 @@ Við höfum tengirammann (_Wireframe_) til hliðsjónar við að búa til frumge
 
 ### Stílbragð (_Style tyle_)
 
-Við byrjum á að ákveða hvaða grunnlitir, tákn og leturgerðir eru notaðir í vefnum.  
+Við byrjum á að ákveða hvaða grunnlitir, tákn og leturgerðir eru notaðir í vefnum. Photoshop eða photopea henta vel til að sýna stílbragðið.
 
-![Stílbragð](inkscape_style-tile.png)<br>
+í Inkscape er ekki hægt að velja sömu leturgerðir og við getum notað á vefnum þannig að myndin af stílbragðinu kemur að góðum notum.
+
+![Stílbragð](stílbragð.jpg)<br>
 _Hér sjáum við litasamsetningu og leturval sem notað er í Inkscape vefnum, ásamt táknum sem styðja við framsetningu vefsins._ 
 
 #### Dæmi um frumgerð sem er unnin í Inkscape
 
-Síðan búum við til síðu í _Inkscape_ sem sýnir uppbyggingu vefsins með réttri litasamsetningu og leturgerðum. Myndir er tómir rammar og textinn er "_dummy_" texti. Í þeirri vinnu getum við breytt og bætt hönnunina þannig að þegar frumgerðin er tilbúin þá er útlit og skipulag vefsins klárt í mismunandi skjástærðum. 
+Síðan búum við til síðu í _Inkscape_ sem sýnir uppbyggingu vefsins með réttri litasamsetningu. Myndir er tómir rammar og textinn er "_dummy_" texti. Í þeirri vinnu getum við breytt og bætt hönnunina þannig að þegar frumgerðin er tilbúin þá er útlit og skipulag vefsins klárt í mismunandi skjástærðum. 
 
 ![1280](prototype1280x3200-OUT.svg)
 

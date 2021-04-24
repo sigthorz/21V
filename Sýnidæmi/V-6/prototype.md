@@ -13,7 +13,7 @@ _Hér sjáum við litasamsetningu og leturval sem notað er í Inkscape vefnum, 
 
 Síðan búum við til síðu í _Inkscape_ sem sýnir uppbyggingu vefsins með réttri litasamsetningu og leturgerðum. Myndir er tómir rammar og textinn er "_dummy_" texti. Í þeirri vinnu getum við breytt og bætt hönnunina þannig að þegar frumgerðin er tilbúin þá er útlit og skipulag vefsins klárt í mismunandi skjástærðum. 
 
-![frummynd vantar hér]()
+![1280](prototype1280x800.svg)
 
 ### Inkscape stillingar
 

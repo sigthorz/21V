@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="964.60803"
-     inkscape:cy="274.51039"
+     inkscape:cx="648.35901"
+     inkscape:cy="229.983"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -64,6 +64,11 @@
        position="25.399999,520.70001"
        orientation="1,0"
        id="guide5470"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="169.33333,105.83334"
+       orientation="0,1"
+       id="guide933"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -320,12 +325,12 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="25.362211"
-       y="425.034"
+       y="423.44647"
        id="text5345"><tspan
          sodipodi:role="line"
          id="tspan5343"
          x="25.362211"
-         y="425.034"
+         y="423.44647"
          style="font-size:8.46666622px;fill:#ffffff;stroke-width:0.26458332">ABOUT US</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1.03119624;stroke-opacity:1"
@@ -363,13 +368,13 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="181.91978"
-       y="424.845"
+       y="423.25748"
        id="text5345-0"><tspan
          sodipodi:role="line"
          id="tspan5343-2"
          x="181.91978"
-         y="424.845"
-         style="font-size:8.46666622px;fill:#ffffff;stroke-width:0.26458332">CONTACT</tspan></text>
+         y="423.25748"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#ffffff;stroke-width:0.26458332">For more information, please contact us</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot5422"
@@ -524,12 +529,12 @@
        xml:space="preserve"
        id="flowRoot5422-7-5-85"
        style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26680777,0,0,0.2776714,-55.312884,183.95112)"><flowRegion
+       transform="matrix(0.26680777,0,0,0.2776714,-55.842051,181.83444)"><flowRegion
          id="flowRegion5424-1-9-06"
          style="font-size:21.33333397px"><rect
            id="rect5426-7-8-8"
-           width="491.00711"
-           height="262.39844"
+           width="492.3613"
+           height="278.64587"
            x="304"
            y="896"
            style="font-size:21.33333397px" /></flowRegion><flowPara
@@ -604,30 +609,30 @@
    id="flowSpan968-8">iaculis eu. In auctor dignissim rutrum. </flowSpan></flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.46936989px;line-height:2.0999999;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#280b0b"
          id="flowPara970-9">Morbi ultricies ex nisi, vel pretium leo dignissim sit amet. Proin sagittis malesuada ligula, in dignissim lectus interdum dignissim. Donec euismod metus in ex dignissim imperdiet. Donec non laoreet est. Sed sed risus porta, laoreet ligula id, faucibus arcu. Aenean elementum, nisl id ornare tempus, lacus lacus fermentum eros, et congue risus libero non ligula. Donec semper purus in ullamcorper ornare. Ut eget eros magna</flowPara></flowRoot>    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.4437286;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#ffaaaa;fill-opacity:1;stroke:#ffffff;stroke-width:0.5291667;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1041"
        width="131.3663"
        height="9.2087784"
        x="181.93379"
        y="431.05789" />
     <rect
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.44689938;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#ffaaaa;fill-opacity:1;stroke:#ffffff;stroke-width:0.5291667;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1041-7"
        width="131.38785"
        height="9.3393269"
        x="181.92302"
        y="444.45581" />
     <rect
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.77299225;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#ffaaaa;fill-opacity:1;stroke:#ffffff;stroke-width:0.5291667;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1041-0"
        width="131.32224"
        height="27.955242"
        x="181.95583"
        y="458.8895" />
     <rect
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.25143543;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5549947;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1041-3"
-       width="42.333328"
+       width="46.566662"
        height="9.1753311"
        x="224.36667"
        y="494.59134" />

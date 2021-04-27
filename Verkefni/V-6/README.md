@@ -59,9 +59,9 @@ Dæmi:
 
 #### Námsmat 14% af heildareinkunn
 
-* Skipulagsvinna í Github _Project_  4%
-* Flæði - _Wireframe_     4%
-* Frumgerð - _Prototype_     6%
+* Skipulagsvinna í Github _Project_  3%
+* Flæði - _Wireframe_     3%
+* Frumgerð - _Prototype_     8%
 
 #### Verkefnaskil: Öllum vinnugögnum er skilað í áfangageymsluna 
 
